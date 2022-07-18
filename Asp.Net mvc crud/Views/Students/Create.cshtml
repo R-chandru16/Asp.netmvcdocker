@@ -1,0 +1,169 @@
+﻿@model Asp.net_student.Models.Student
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create</title>
+    
+    <script>
+        $(document).ready(function () {
+            $("#user-name").hide();
+
+            $("#logout").hide();
+        });
+    </script>
+</head>
+
+<body>
+
+    @if (TempData["Alertdepartment"] != null)
+    {
+
+    <div class="alert-alignings">
+
+        @*  *@
+        <div class="alert alert-danger alert-dismissible fade show alert-aligning" role="alert" style="
+  left: 870px;
+    bottom: 10px;width:400px;
+
+             ">
+            <strong>failed!</strong> @TempData["Alertdepartment"]
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                <span aria-hidden="true">×</span>
+            </button>
+        </div>
+    </div>
+    }
+    <div class="create-container">
+        <h4>Student Registration</h4>
+        <hr />
+        <div class="row-create">
+            <div class="">
+
+
+                @using (Html.BeginForm("Create", "Students", FormMethod.Post))
+                {
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+
+                        <label asp-for="Name" class="control-label">Name</label>
+                        <input asp-for="Name" class="form-control" placeholder="Enter Name" minlength="3" type="text" required="required" autofocus />
+                    </div>
+                    <div class="form-group">
+
+                        <label asp-for="Age" class="control-label">Age</label>
+                        <input asp-for="Age" class="form-control" placeholder="Enter Age" type="number" required="required" min="18" max="60" step="1" />
+
+                    </div>
+
+                    <div class="form-group">
+
+                        <label asp-for="DepartmentId" class="control-label">DepartmentId</label>
+
+                        <input asp-for="DepartmentId" class="form-control" placeholder="Enter DepartmentId" type="number" required="required" min="101" />
+
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Email" class="control-label">Email</label>
+
+                        @Html.TextBoxFor(m => m.Email,
+    new { @class = "form-control", placeholder = "Email", required = "required", type = "Email", autocomplete = "on" })
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="password" class="control-label">
+                            password
+                        </label>
+
+                        @Html.TextBoxFor(m => m.password,
+    new { @class = "form-control", placeholder = "Password", required = "required", type = "password" })
+                    </div>
+
+                    <div class="form-group">
+
+                        <label asp-for="Phone" class="control-label">Phone</label>
+                        <input asp-for="Phone" type="text" class="form-control" placeholder="Phone..." pattern="[1-9]{1}[0-9]{9}" required="required" />
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Gender" class="control-label">Gender</label>
+
+                        <div class="col-md-10">
+
+                            <input type="radio" name="Gender" value="Male" required="required" />Male
+
+                            <input type="radio" name="Gender" value="Female" />Female
+
+                        </div>
+                    </div>
+                    <div class="form-group">
+
+                        <label asp-for="country" class="control-label">country</label>
+
+                        <select asp-for="country" class="form-control" placeholder="country" type="number" required="required">
+                            <option value="">Pick one</option>
+                            <option value="India">India</option>
+                            <option value="Australia">Australia</option>
+                            <option value="America">America</option>
+                            <option value="china">China</option>
+                            <option value="Japan">Japan</option>
+                            <option value="Russia">Russia</option>
+                            <option value="England">England</option>
+                            <option value="Korea">Korea</option>
+                            <option value="Nz">New Zealand</option>
+                            <option value="South Africa">South Africa</option>
+                            <option value="West Indies">West Indies</option>
+                            <option value="Brazil">Brazil</option>
+                            <option value="Holland">Holland</option>
+                            <option value="Bahrain">Bahrain</option>
+                            <option value="Canada">Canada</option>
+                            <option value="Colombia">Colombia</option>
+                            <option value="France">France</option>
+                            <option value="19">Germany</option>
+
+                        </select>
+                    </div>
+
+
+
+                    <div class="form-group">
+
+                        <label asp-for="EnrollmentDate" class="control-label">Enrollementdate</label>
+                        @*<input asp-for="EnrollmentDate" class="form-control" required="required" type="date" />*@
+                        <input asp-for="EnrollmentDate" class="form-control" type="date" min="2022-01-01" max="2022-12-31" required>
+
+
+                    </div>
+
+
+
+
+                    <div class="form-group">
+                        <input type="submit" value="Create" class="btn btn-primary" />
+
+
+                    </div>
+
+
+                }
+            </div>
+        </div>
+
+        <div>
+
+            @Html.ActionLink(" Login | click here to sign in", "Index", "Users", new { @class = "btn btn-link" })
+
+        </div>
+
+</body>
+</html>

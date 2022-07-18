@@ -1,0 +1,60 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@inject IHttpContextAccessor HttpContextAccessor
+@using Microsoft.AspNetCore.Http@*
+    @inject IHttpContextAccessor HttpContextAccessor*@
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script type="text/javascript">
+        function Show() {
+
+            var r = confirm("Are you sure you want to exit");
+            if (r == true) {
+                return true;
+            }
+            else {
+                return false;
+            }
+
+
+        }
+    </script>
+</head>
+<body>
+    <ul class="navbar-nav">
+
+        @*@{
+                ViewBag.Data = HttpContextAccessor.HttpContext.Session.GetString("Name");
+            }*@
+
+
+        <li class="nav-item">
+            <a id="user-name" class="nav-link text-dark" asp-controller="Students" asp-action="index" title="">Hello @TempData.Peek("name")</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" id="logout" asp-controller="Users" asp-action="index" role="button" onclick="javascript: return Show();">
+                <i class="fa fa-sign-out"  style="font-size:16px;color:red"></i>Logout
+            </a>
+           
+        </li>
+
+        <li class="nav-item">
+            <a class="nav-link text-dark" id="register" asp-controller="Students" asp-action="Create"><i class="fa fa-registered" style="font-size:16px;color:#c25c5c"></i>Register</a>
+            @*@Html.ActionLink("Register","Create","Users")*@
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" id="login" asp-controller="Users" asp-action="index"><i class="fa fa-sign-in"  style="font-size: 16px; color: #c25c5c "></i>Login</a>
+        </li>
+
+        @*<li class="nav-item">
+                <a class="nav-link text-dark" asp-controller="Login" asp-action="Logout">Logout</a>
+            </li>*@
+
+    </ul>
+    </body>
+</html>

@@ -1,0 +1,1544 @@
+D:\Asp.net student\bin\Debug\net5.0\appsettings.Development.json
+D:\Asp.net student\bin\Debug\net5.0\appsettings.json
+D:\Asp.net student\bin\Debug\net5.0\Asp.net student.exe
+D:\Asp.net student\bin\Debug\net5.0\Asp.net student.deps.json
+D:\Asp.net student\bin\Debug\net5.0\Asp.net student.runtimeconfig.json
+D:\Asp.net student\bin\Debug\net5.0\Asp.net student.runtimeconfig.dev.json
+D:\Asp.net student\bin\Debug\net5.0\Asp.net student.dll
+D:\Asp.net student\bin\Debug\net5.0\ref\Asp.net student.dll
+D:\Asp.net student\bin\Debug\net5.0\Asp.net student.pdb
+D:\Asp.net student\bin\Debug\net5.0\Asp.net student.Views.dll
+D:\Asp.net student\bin\Debug\net5.0\Asp.net student.Views.pdb
+D:\Asp.net student\bin\Debug\net5.0\Humanizer.dll
+D:\Asp.net student\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Asp.net student\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Asp.net student\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Asp.net student\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Asp.net student\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Asp.net student\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Asp.net student\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Asp.net student\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Asp.net student\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Asp.net student\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Asp.net student\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Asp.net student\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Asp.net student\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Asp.net student\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Asp.net student\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Asp.net student\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Asp.net student\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Asp.net student\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Asp.net student\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.net student\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.net student\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.net student\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.net student\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.net student\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.net student\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.net student\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.net student\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.net student\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.net student\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.net student\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Asp.net student\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.net student\obj\Debug\net5.0\Asp.net student.csproj.AssemblyReference.cache
+D:\Asp.net student\obj\Debug\net5.0\Asp.net student.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net student\obj\Debug\net5.0\Asp.net student.AssemblyInfoInputs.cache
+D:\Asp.net student\obj\Debug\net5.0\Asp.net student.AssemblyInfo.cs
+D:\Asp.net student\obj\Debug\net5.0\Asp.net student.csproj.CoreCompileInputs.cache
+D:\Asp.net student\obj\Debug\net5.0\Asp.net student.MvcApplicationPartsAssemblyInfo.cache
+D:\Asp.net student\obj\Debug\net5.0\Asp.net student.RazorAssemblyInfo.cache
+D:\Asp.net student\obj\Debug\net5.0\Asp.net student.RazorAssemblyInfo.cs
+D:\Asp.net student\obj\Debug\net5.0\staticwebassets\Asp.net student.StaticWebAssets.Manifest.cache
+D:\Asp.net student\obj\Debug\net5.0\staticwebassets\Asp.net student.StaticWebAssets.xml
+D:\Asp.net student\obj\Debug\net5.0\scopedcss\bundle\Asp.net student.styles.css
+D:\Asp.net student\obj\Debug\net5.0\Asp.net student.TagHelpers.input.cache
+D:\Asp.net student\obj\Debug\net5.0\Asp.net student.TagHelpers.output.cache
+D:\Asp.net student\obj\Debug\net5.0\Asp.net student.RazorCoreGenerate.cache
+D:\Asp.net student\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Asp.net student\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Asp.net student\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Asp.net student\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Asp.net student\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Asp.net student\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Asp.net student\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Asp.net student\obj\Debug\net5.0\Asp.net student.RazorTargetAssemblyInfo.cache
+D:\Asp.net student\obj\Debug\net5.0\Asp.net student.RazorTargetAssemblyInfo.cs
+D:\Asp.net student\obj\Debug\net5.0\Asp.net student.Views.pdb
+D:\Asp.net student\obj\Debug\net5.0\Asp.net student.csproj.CopyComplete
+D:\Asp.net student\obj\Debug\net5.0\Asp.net student.dll
+D:\Asp.net student\obj\Debug\net5.0\ref\Asp.net student.dll
+D:\Asp.net student\obj\Debug\net5.0\Asp.net student.pdb
+D:\Asp.net student\obj\Debug\net5.0\Asp.net student.genruntimeconfig.cache
+D:\Asp.net student\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Asp.net student\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Asp.net student\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Asp.net student\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Asp.net student\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Asp.net student\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Asp.net student\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Asp.net student\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Asp.net student\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Asp.net student\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Asp.net student\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Asp.net student\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Asp.net student\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Asp.net student\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Asp.net student\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Asp.net student\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Asp.net student\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Asp.net student\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Asp.net student\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Asp.net student\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Asp.net student\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net student\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Asp.net student\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Asp.net student\obj\Debug\net5.0\Razor\Views\Students\Create.cshtml.g.cs
+D:\Asp.net student\obj\Debug\net5.0\Razor\Views\Students\Edit.cshtml.g.cs
+D:\Asp.net student\obj\Debug\net5.0\Razor\Views\Students\Delete.cshtml.g.cs
+D:\Asp.net student\obj\Debug\net5.0\Razor\Views\Students\Details.cshtml.g.cs
+D:\Asp.net student\obj\Debug\net5.0\Razor\Views\Shared\Index.cshtml.g.cs
+D:\Asp.net student\obj\Debug\net5.0\Razor\Views\Students\Index.cshtml.g.cs
+D:\Asp.Net mvc crud\bin\Debug\net5.0\appsettings.Development.json
+D:\Asp.Net mvc crud\bin\Debug\net5.0\appsettings.json
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.exe
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.deps.json
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.runtimeconfig.json
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.runtimeconfig.dev.json
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\ref\Asp.net student.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.pdb
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.Views.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.Views.pdb
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Humanizer.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.csproj.AssemblyReference.cache
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.AssemblyInfoInputs.cache
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.AssemblyInfo.cs
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.csproj.CoreCompileInputs.cache
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.MvcApplicationPartsAssemblyInfo.cache
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorAssemblyInfo.cache
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorAssemblyInfo.cs
+D:\Asp.Net mvc crud\obj\Debug\net5.0\staticwebassets\Asp.net student.StaticWebAssets.Manifest.cache
+D:\Asp.Net mvc crud\obj\Debug\net5.0\staticwebassets\Asp.net student.StaticWebAssets.xml
+D:\Asp.Net mvc crud\obj\Debug\net5.0\scopedcss\bundle\Asp.net student.styles.css
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.TagHelpers.input.cache
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.TagHelpers.output.cache
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorCoreGenerate.cache
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\Index.cshtml.g.cs
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Create.cshtml.g.cs
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Delete.cshtml.g.cs
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Details.cshtml.g.cs
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Edit.cshtml.g.cs
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Index.cshtml.g.cs
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorTargetAssemblyInfo.cache
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorTargetAssemblyInfo.cs
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.Views.pdb
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.csproj.CopyComplete
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.dll
+D:\Asp.Net mvc crud\obj\Debug\net5.0\ref\Asp.net student.dll
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.pdb
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.genruntimeconfig.cache
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_Pagination.cshtml.g.cs
+D:\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\appsettings.Development.json
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\appsettings.json
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.exe
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.deps.json
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.runtimeconfig.json
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.runtimeconfig.dev.json
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\ref\Asp.net student.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.pdb
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.Views.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.Views.pdb
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Humanizer.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Asp.net student update2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.csproj.AssemblyReference.cache
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.AssemblyInfoInputs.cache
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.AssemblyInfo.cs
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.csproj.CoreCompileInputs.cache
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.MvcApplicationPartsAssemblyInfo.cache
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorAssemblyInfo.cache
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorAssemblyInfo.cs
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\staticwebassets\Asp.net student.StaticWebAssets.Manifest.cache
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\staticwebassets\Asp.net student.StaticWebAssets.xml
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\scopedcss\bundle\Asp.net student.styles.css
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.TagHelpers.input.cache
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.TagHelpers.output.cache
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorCoreGenerate.cache
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\Index.cshtml.g.cs
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_Pagination.cshtml.g.cs
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Create.cshtml.g.cs
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Delete.cshtml.g.cs
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Details.cshtml.g.cs
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Edit.cshtml.g.cs
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Index.cshtml.g.cs
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorTargetAssemblyInfo.cache
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorTargetAssemblyInfo.cs
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.Views.pdb
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.csproj.CopyComplete
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.dll
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\ref\Asp.net student.dll
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.pdb
+D:\Asp.net student update2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.genruntimeconfig.cache
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\appsettings.Development.json
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\appsettings.json
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.exe
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.deps.json
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.runtimeconfig.json
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.runtimeconfig.dev.json
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\ref\Asp.net student.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.pdb
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.Views.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.Views.pdb
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Humanizer.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.csproj.AssemblyReference.cache
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.AssemblyInfoInputs.cache
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.AssemblyInfo.cs
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.csproj.CoreCompileInputs.cache
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.MvcApplicationPartsAssemblyInfo.cache
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorAssemblyInfo.cache
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorAssemblyInfo.cs
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\staticwebassets\Asp.net student.StaticWebAssets.Manifest.cache
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\staticwebassets\Asp.net student.StaticWebAssets.xml
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\scopedcss\bundle\Asp.net student.styles.css
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.TagHelpers.input.cache
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.TagHelpers.output.cache
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorCoreGenerate.cache
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\Index.cshtml.g.cs
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_Pagination.cshtml.g.cs
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Create.cshtml.g.cs
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Delete.cshtml.g.cs
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Details.cshtml.g.cs
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Edit.cshtml.g.cs
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Index.cshtml.g.cs
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorTargetAssemblyInfo.cache
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorTargetAssemblyInfo.cs
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.Views.pdb
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.csproj.CopyComplete
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.dll
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\ref\Asp.net student.dll
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.pdb
+D:\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.genruntimeconfig.cache
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\appsettings.Development.json
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\appsettings.json
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.exe
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.deps.json
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.runtimeconfig.json
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.runtimeconfig.dev.json
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\ref\Asp.net student.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.pdb
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.Views.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.Views.pdb
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Humanizer.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.csproj.AssemblyReference.cache
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.AssemblyInfoInputs.cache
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.AssemblyInfo.cs
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.csproj.CoreCompileInputs.cache
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.MvcApplicationPartsAssemblyInfo.cache
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorAssemblyInfo.cache
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorAssemblyInfo.cs
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\staticwebassets\Asp.net student.StaticWebAssets.Manifest.cache
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\staticwebassets\Asp.net student.StaticWebAssets.xml
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\scopedcss\bundle\Asp.net student.styles.css
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.TagHelpers.input.cache
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.TagHelpers.output.cache
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorCoreGenerate.cache
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\Index.cshtml.g.cs
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_Pagination.cshtml.g.cs
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Create.cshtml.g.cs
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Delete.cshtml.g.cs
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Details.cshtml.g.cs
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Edit.cshtml.g.cs
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Index.cshtml.g.cs
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorTargetAssemblyInfo.cache
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorTargetAssemblyInfo.cs
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.Views.pdb
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.csproj.CopyComplete
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\ref\Asp.net student.dll
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.pdb
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.genruntimeconfig.cache
+D:\Asp.netnewup\Asp.netup 2\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\appsettings.Development.json
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\appsettings.json
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.exe
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.deps.json
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.runtimeconfig.json
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.runtimeconfig.dev.json
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\ref\Asp.net student.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.pdb
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.Views.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.Views.pdb
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Humanizer.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.csproj.AssemblyReference.cache
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.AssemblyInfoInputs.cache
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.AssemblyInfo.cs
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.csproj.CoreCompileInputs.cache
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.MvcApplicationPartsAssemblyInfo.cache
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorAssemblyInfo.cache
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorAssemblyInfo.cs
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\staticwebassets\Asp.net student.StaticWebAssets.Manifest.cache
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\staticwebassets\Asp.net student.StaticWebAssets.xml
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\scopedcss\bundle\Asp.net student.styles.css
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.TagHelpers.input.cache
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.TagHelpers.output.cache
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorCoreGenerate.cache
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\Index.cshtml.g.cs
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_Pagination.cshtml.g.cs
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Create.cshtml.g.cs
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Delete.cshtml.g.cs
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Details.cshtml.g.cs
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Edit.cshtml.g.cs
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Index.cshtml.g.cs
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorTargetAssemblyInfo.cache
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorTargetAssemblyInfo.cs
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.Views.pdb
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.csproj.CopyComplete
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\ref\Asp.net student.dll
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.pdb
+D:\Asp.netmvcnewup\Asp.netnewupdate\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.genruntimeconfig.cache
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\appsettings.Development.json
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\appsettings.json
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.exe
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.deps.json
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.runtimeconfig.json
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.runtimeconfig.dev.json
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ref\Asp.net student.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.pdb
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.Views.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.Views.pdb
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Humanizer.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.csproj.AssemblyReference.cache
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.AssemblyInfoInputs.cache
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.AssemblyInfo.cs
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.csproj.CoreCompileInputs.cache
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.MvcApplicationPartsAssemblyInfo.cache
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorAssemblyInfo.cache
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorAssemblyInfo.cs
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\staticwebassets\Asp.net student.StaticWebAssets.Manifest.cache
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\staticwebassets\Asp.net student.StaticWebAssets.xml
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\scopedcss\bundle\Asp.net student.styles.css
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.TagHelpers.input.cache
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.TagHelpers.output.cache
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorCoreGenerate.cache
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\Index.cshtml.g.cs
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_Pagination.cshtml.g.cs
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Create.cshtml.g.cs
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Delete.cshtml.g.cs
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Details.cshtml.g.cs
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Edit.cshtml.g.cs
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Index.cshtml.g.cs
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorTargetAssemblyInfo.cache
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorTargetAssemblyInfo.cs
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.Views.pdb
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.csproj.CopyComplete
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\ref\Asp.net student.dll
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.pdb
+D:\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.genruntimeconfig.cache
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\appsettings.Development.json
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\appsettings.json
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.exe
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.deps.json
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.runtimeconfig.json
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.runtimeconfig.dev.json
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ref\Asp.net student.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.pdb
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.Views.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.Views.pdb
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Humanizer.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.csproj.AssemblyReference.cache
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.AssemblyInfoInputs.cache
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.AssemblyInfo.cs
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.csproj.CoreCompileInputs.cache
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.MvcApplicationPartsAssemblyInfo.cache
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorAssemblyInfo.cache
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorAssemblyInfo.cs
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\staticwebassets\Asp.net student.StaticWebAssets.Manifest.cache
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\staticwebassets\Asp.net student.StaticWebAssets.xml
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\scopedcss\bundle\Asp.net student.styles.css
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.TagHelpers.input.cache
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.TagHelpers.output.cache
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorCoreGenerate.cache
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\Index.cshtml.g.cs
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_Pagination.cshtml.g.cs
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Create.cshtml.g.cs
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Delete.cshtml.g.cs
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Details.cshtml.g.cs
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Edit.cshtml.g.cs
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Index.cshtml.g.cs
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorTargetAssemblyInfo.cache
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorTargetAssemblyInfo.cs
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.Views.pdb
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.csproj.CopyComplete
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\ref\Asp.net student.dll
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.pdb
+D:\Asp.netcrudlog\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.genruntimeconfig.cache
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\appsettings.Development.json
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\appsettings.json
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.exe
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.deps.json
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.runtimeconfig.json
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.runtimeconfig.dev.json
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ref\Asp.net student.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.pdb
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.Views.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.Views.pdb
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Humanizer.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.csproj.AssemblyReference.cache
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.AssemblyInfoInputs.cache
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.AssemblyInfo.cs
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.csproj.CoreCompileInputs.cache
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.MvcApplicationPartsAssemblyInfo.cache
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorAssemblyInfo.cache
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorAssemblyInfo.cs
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\staticwebassets\Asp.net student.StaticWebAssets.Manifest.cache
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\staticwebassets\Asp.net student.StaticWebAssets.xml
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\scopedcss\bundle\Asp.net student.styles.css
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.TagHelpers.input.cache
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.TagHelpers.output.cache
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorCoreGenerate.cache
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\Index.cshtml.g.cs
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_Pagination.cshtml.g.cs
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Create.cshtml.g.cs
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Delete.cshtml.g.cs
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Details.cshtml.g.cs
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Edit.cshtml.g.cs
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Index.cshtml.g.cs
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorTargetAssemblyInfo.cache
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorTargetAssemblyInfo.cs
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.Views.pdb
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.csproj.CopyComplete
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\ref\Asp.net student.dll
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.pdb
+D:\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.genruntimeconfig.cache
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\appsettings.Development.json
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\appsettings.json
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.exe
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.deps.json
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.runtimeconfig.json
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.runtimeconfig.dev.json
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ref\Asp.net student.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.pdb
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.Views.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Asp.net student.Views.pdb
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Humanizer.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.csproj.AssemblyReference.cache
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.AssemblyInfoInputs.cache
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.AssemblyInfo.cs
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.csproj.CoreCompileInputs.cache
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.MvcApplicationPartsAssemblyInfo.cache
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorAssemblyInfo.cache
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorAssemblyInfo.cs
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\staticwebassets\Asp.net student.StaticWebAssets.Manifest.cache
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\staticwebassets\Asp.net student.StaticWebAssets.xml
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\scopedcss\bundle\Asp.net student.styles.css
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.TagHelpers.input.cache
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.TagHelpers.output.cache
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorCoreGenerate.cache
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\Index.cshtml.g.cs
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_Pagination.cshtml.g.cs
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Create.cshtml.g.cs
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Delete.cshtml.g.cs
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Details.cshtml.g.cs
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Edit.cshtml.g.cs
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Students\Index.cshtml.g.cs
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorTargetAssemblyInfo.cache
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.RazorTargetAssemblyInfo.cs
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.Views.pdb
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.csproj.CopyComplete
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\ref\Asp.net student.dll
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.pdb
+D:\Asp.net mvccrudupdate\Asp.netcrudchanges\Asp.netmvfinalupres\Asp.Net mvc crud\obj\Debug\net5.0\Asp.net student.genruntimeconfig.cache

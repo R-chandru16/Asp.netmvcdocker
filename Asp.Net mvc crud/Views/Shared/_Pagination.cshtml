@@ -1,0 +1,126 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Index</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+      
+         /*   .pagination a {
+                color: blue;
+                float: left;
+                padding-right: 8px 16px;
+                text-decoration: none;
+            }
+
+                .pagination a.active {
+                    background-color: red;
+                    color: white;
+                    border-radius: 5px;
+                }
+
+                .pagination a:hover:not(.active) {
+                    background-color: #ddd;
+                    border-radius: 10px;
+                }*/
+
+
+
+        .pagination a {
+            color: blue;
+            float: left;
+            padding: 8px 16px;
+            text-decoration: none;
+            border: 1px solid #ddd;
+        }
+
+            .pagination a.active {
+                background-color: #4CAF50;
+                color: white;
+                border: 1px solid #4CAF50;
+            }
+
+            .pagination a:hover:not(.active) {
+                background-color: #ddd;
+            }
+
+            .pagination a:first-child {
+                border-top-left-radius: 5px;
+                border-bottom-left-radius: 5px;
+            }
+
+            .pagination a:last-child {
+                border-top-right-radius: 5px;
+                border-bottom-right-radius: 5px;
+            }
+
+        
+    </style>
+</head>
+
+
+
+
+<body>
+
+@{
+
+
+    var recordsPerPage = Model;
+    var totalRecords = ViewBag.TotalRecords == null ? 0 : ViewBag.TotalRecords;
+    int numberOfButtons;
+    if (totalRecords % recordsPerPage == 0)
+    {
+        numberOfButtons = totalRecords / recordsPerPage;
+    }
+    else
+    {
+        numberOfButtons = (totalRecords / recordsPerPage) + 1;
+    }
+}
+
+    
+<ul class="pagination">
+
+
+    @if (ViewBag.CurrentPage > 1)
+    {
+        <li>
+            <a asp-route-page=@(ViewBag.CurrentPage-1)>Prev</a>
+        </li>
+    }
+
+    @for (int i = 0; i < numberOfButtons; i++)
+    {
+        @if (ViewBag.CurrentPage < numberOfButtons)
+        {
+            <li>
+                &nbsp;
+                <a asp-route-page="@(ViewBag.CurrentPage+i)">@(ViewBag.CurrentPage+i)</a>
+            </li>
+        }
+    }
+    @if (ViewBag.CurrentPage < numberOfButtons)
+    {
+        <li>
+            &nbsp;
+            <a asp-route-page=@(ViewBag.CurrentPage+1)>Next</a>
+        </li>
+    }
+</ul>
+       
+</body>
+</html>

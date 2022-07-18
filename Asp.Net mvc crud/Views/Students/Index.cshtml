@@ -1,0 +1,165 @@
+﻿
+
+@model IEnumerable<Asp.net_student.Models.Student>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+   
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Students</title>
+    @*<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/style.css" />
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="fontawesome/css/all.min.css">
+    <link rel="stylesheet" href="css/templatemo-style.css">*@
+   
+</head>
+<body>
+
+    
+
+    <div class="btn">
+        &nbsp;&nbsp;
+        @*<form asp-action="index" method="post">
+            <div class="row input-group">
+                <input type="text" name="search" id="search" class="form-control" />
+                <div class="input-group-btn">
+                    <input type="submit" value="search" class="btn btn-primary" />
+
+                </div>
+            </div>
+        </form>*@
+
+        @if (TempData["AlertMessage"] != null)
+        {
+
+            <div class="alert-alignings">
+
+
+                <div class="alert alert-success alert-dismissible fade show alert-aligning" role="alert" style="
+    left: 900px;
+    bottom: 31px;
+">
+                    <strong>success!</strong> @TempData["AlertMessage"]
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                </div>
+            </div>
+        }
+
+
+
+        @using (
+Html.BeginForm("Index", "Students", FormMethod.Post))
+        {
+
+            <strong class="control-label">Search by:</strong>
+            <input class="textboxforsearch" id="search" type="text" name="search" placeholder="Name,Gender,country,age"  />
+            <button type="submit"><i class="fa fa-search" style="color:blue;width:70px"></i></button>}
+
+
+
+    </div>
+    <div class="table-container">
+        <table class="table ">
+            <thead class="thead-light">
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Name)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Age)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DepartmentId)
+                    </th>
+
+                    <th>
+                        @Html.DisplayNameFor(model => model.Phone)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.country)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Email)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Gender)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.EnrollmentDate)
+                    </th>
+                    <th>
+                        Action
+                    </th>
+                </tr>
+            </thead>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Age)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DepartmentId)
+                    </td>
+                    <td>
+
+                        @Html.DisplayFor(modelItem => item.Phone)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.country)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Email)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Gender)
+                    </td>
+                    <td>
+
+                        @Html.DisplayFor(modelItem => item.EnrollmentDate)
+                    </td>
+
+                    <td class="btns">
+                        
+                        <a href="@Url.Action("Details","Students",new { id=item.Id})" class="btn btn-sm btn-primary"><i class="fa fa-eye"></i></a>
+                        <a href="@Url.Action("Edit","Students",new { id=item.Id})" class="btn btn-sm btn-info"><i class="fa fa-pencil-square"></i></a>
+                        <a href="@Url.Action("Delete","Students",new { id=item.Id})" class="btn btn-sm btn-danger"><i class="fa fa-trash-o"></i></a>
+                    </td>
+                </tr>
+            }
+
+        </table>
+        </div>
+        <div class="pagination">
+
+            @await Html.PartialAsync("_Pagination", 5)
+
+        </div>
+        <script>
+            $(document).ready(function () {
+                $("#register").hide();
+                $("#login").hide();
+              
+            });
+        </script>
+</body>
+</html>
+
+
+
+
+

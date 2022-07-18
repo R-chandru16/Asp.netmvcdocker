@@ -1,0 +1,226 @@
+﻿
+
+
+
+@model Asp.net_student.Models.Student
+
+@{
+    ViewData["Title"] = "Delete";
+}
+<html>
+
+<body>
+    <h1>Delete</h1>
+    <div class="delete-container">
+        <h3>Are you sure you want to delete this?</h3>
+        <div>
+            <h4>Student</h4>
+
+
+
+
+
+            <hr />
+            <dl class="row-delete">
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Name)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Name)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Age)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Age)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.DepartmentId)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.DepartmentId)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Phone)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Phone)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.country)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.country)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Gender)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Gender)
+                </dd>
+
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.EnrollmentDate)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.EnrollmentDate)
+                </dd>
+
+            </dl>
+
+
+
+            </div>
+            <form asp-action="Delete">
+                <input type="hidden" asp-for="Id" />
+                <button asp-action="Deletestur" asp-controller="Students" asp-route-Id="@Model.Id">delete</button>
+                <button asp-action="index" asp-controller="Students">  back</button>
+            </form>
+
+
+
+
+
+        </div>
+</body>
+</html>
+<script>
+    $(document).ready(function () {
+        $("#register").hide();
+        $("#login").hide();
+
+    });
+</script>
+
+
+
+@*@model Asp.net_student.Models.Student
+
+
+    @{
+
+        Layout = null;
+
+    }
+
+    <!DOCTYPE html>
+
+    <html>
+
+    <head>
+
+        <meta name="viewport" content="width=device-width" />
+
+        <title>Delete</title>
+
+    </head>
+
+    <body>
+
+        <h3>Are you sure you want to delete this?</h3>
+
+        @using (Html.BeginForm())
+
+        {
+
+            <fieldset>
+
+                <legend>Student</legend>
+
+
+
+
+
+                <div class="display-label">
+
+                    @Html.DisplayNameFor(model => model.Name)
+
+                </div>
+
+                <div class="display-field">
+
+                    @Html.DisplayFor(model => model.Name)
+
+                </div>
+
+
+
+                <div class="display-label">
+
+                    @Html.DisplayNameFor(model => model.Age)
+
+                </div>
+
+                <div class="display-field">
+
+                    @Html.DisplayFor(model => model.Age)
+
+                </div>
+
+
+
+                <div class="display-label">
+
+                    @Html.DisplayNameFor(model => model.Phone)
+
+                </div>
+
+                <div class="display-field">
+
+                    @Html.DisplayFor(model => model.Phone)
+
+                </div>
+
+
+
+                <div class="display-label">
+
+                    @Html.DisplayNameFor(model => model.country)
+
+                </div>
+
+                <div class="display-field">
+
+                    @Html.DisplayFor(model => model.country)
+
+                </div>
+
+
+
+                <div class="display-label">
+
+                    @Html.DisplayNameFor(model => model.Gender)
+
+                </div>
+
+                <div class="display-field">
+
+                    @Html.DisplayFor(model => model.Gender)
+
+                </div>
+
+            </fieldset>
+
+
+
+
+
+            <a class="btn btn-danger delete"
+               data-body-message="Are you sure to delete this">
+                <button asp-action="Deletestur" asp-controller="Students" asp-route-Id="@Model.Id">delete</button>
+                <button asp-action="index" asp-controller="Students">  back</button>
+
+            </a>
+
+
+
+
+        }
+
+    </body>
+
+    </html>*@
+
+
+
+

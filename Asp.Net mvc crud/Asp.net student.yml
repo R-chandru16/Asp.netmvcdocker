@@ -1,0 +1,33 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: asp.net studentdepl
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: Asp.net Student
+  template:
+    metadata:
+      labels:
+        app:  Asp.net Student
+    spec:
+      containers:
+      - name: azdeployment
+        image: azdeployment.azurecr.io/azdeployment:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: dsconfigsn1
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: asp.net studentdepl
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: Asp.net Student

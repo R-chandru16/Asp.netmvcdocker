@@ -1,0 +1,138 @@
+﻿h1 {
+    color: #0069d9;
+}
+
+.align-center {
+    color: #0069d9;
+    text-align: center;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: rgb(93 146 210 / 0.87) !important;
+}
+
+.user-name {
+    color: black;
+    font-size: 15px;
+    padding: 12px;
+}
+
+tr {
+    color: black;
+}
+
+.main-container {
+    display: flex !important;
+    justify-content: center;
+}
+
+.row {
+    width: 300px;
+    margin: 70px auto;
+}
+
+.login-container {
+    display: flex;
+    background-color: #fff;
+    margin-top: 50px;
+    justify-content: center;
+    width: fit-content;
+}
+
+.image-container {
+    margin-top: 120px;
+}
+
+.table-container {
+    background-color: white;
+    width: auto;
+    overflow-x: auto;
+}
+
+.btns {
+    display: flex;
+    flex-direction: row;
+}
+
+.footer-container {
+    background-color: white;
+}
+
+th {
+    color: green;
+}
+
+.edit-container {
+    background-color: white;
+    padding: 20px;
+}
+
+.create-container {
+    background-color: white;
+    padding: 20px;
+    margin: 0 auto;
+    width: 45%;
+}
+
+.delete-container {
+    background-color: white;
+    padding: 20px;
+}
+
+.details-container {
+    background-color: white;
+    padding: 20px;
+}
+
+.edit-form-container {
+    display: flex;
+    justify-content: center;
+}
+
+.first-half {
+    margin-left: 10px;
+}
+
+.next-half {
+    margin-left: 245px;
+}
+
+.form-group {
+    position: center;
+}
+
+.buttonalign {
+    display: flex;
+    justify-content: center;
+}
+
+    .buttonalign input {
+        margin: 5px;
+    }
+/*.alert-aligning {
+ 
+    padding: 1px;
+    float: left;
+    margin: 0 auto;
+    position:absolute;
+    left:1000px;
+}*/
+.label-textcolor {
+    color: aqua;
+}
+
+.pagination {
+    padding: 10px;
+}
+
+.logo img {
+    position: relative;
+    float: left;
+    cursor: pointer;
+    border-radius: 50%;
+    width: 62px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    margin-left: 70px;
+}
